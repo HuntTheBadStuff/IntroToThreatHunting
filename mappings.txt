@@ -37,7 +37,7 @@
         "type": "keyword"
       },
       "path": {
-        "type": "text"
+        "type": "keyword"
       },
       "psha256": {
         "properties": {
