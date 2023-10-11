@@ -37,7 +37,7 @@
         "type": "keyword"
       },
       "path": {
-        "type": "keyword"
+        "type": "text"
       },
       "psha256": {
         "properties": {
@@ -100,7 +100,7 @@
         "format": "iso8601"
       },
       "url": {
-        "type": "keyword"
+        "type": "text"
       },
       "username": {
         "type": "keyword"
