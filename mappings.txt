@@ -1,8 +1,4 @@
 {
-  "mappings": {
-    "_meta": {
-      "created_by": "file-data-visualizer"
-    },
     "properties": {
       "@timestamp": {
         "type": "date_nanos"
@@ -107,4 +103,3 @@
       }
     }
   }
-}
